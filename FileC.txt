@@ -1,3 +1,4 @@
 Ths is FIle C
 Lets amake a change
 this is a squash Merge
+This file is not going to be tracked
